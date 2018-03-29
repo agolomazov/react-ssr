@@ -52,3 +52,4 @@ fabric.properties
 
 .idea
 server/node_modules
+server/build
